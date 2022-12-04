@@ -10,6 +10,7 @@ for(int k=0;k<t;k++)
  int r =0;
  int c=0;
  //cout<<"row : ";
+	//testing
  cin >>r;
  //cout<<endl<<"coulmn : ";
  cin>>c;
