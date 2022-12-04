@@ -22,6 +22,7 @@ for(int k=0;k<t;k++)
         // Declare a memory block
         // of size n
         arr[i] = new char[c];
+	    //again testing
     }
  for (int i = 0; i < r; i++) {
 
