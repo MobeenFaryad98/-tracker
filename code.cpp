@@ -3,6 +3,7 @@ using namespace std;
 int main() {
 
 int t=1;
+	//testing
 cin>>t;
 //testing again
 for(int k=0;k<t;k++)
